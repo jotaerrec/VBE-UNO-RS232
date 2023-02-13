@@ -1,0 +1,12 @@
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\bin\Debug\VBE-UNO-RS232.exe.config
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\bin\Debug\VBE-UNO-RS232.exe
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\bin\Debug\VBE-UNO-RS232.pdb
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\bin\Debug\VBE-UNO-RS232.xml
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.vbproj.AssemblyReference.cache
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.vbproj.SuggestedBindingRedirects.cache
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE_UNO_RS232.Resources.resources
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.vbproj.GenerateResource.cache
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.vbproj.CoreCompileInputs.cache
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.exe
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.xml
+C:\Users\javir\source\repos\VBE-UNO-RS232\VBE-UNO-RS232\obj\Debug\VBE-UNO-RS232.pdb
